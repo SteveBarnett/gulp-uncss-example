@@ -1,0 +1,16 @@
+{
+  "name": "gulp-uncss-example",
+  "version": "0.0.1",
+  "description": "A short example of how to use uncss with gulp",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-uncss": "^1.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteveBarnett/gulp-uncss-Example.git"
+  },
+  "author": "Steve Barnett",
+  "license": "ISC"
+}

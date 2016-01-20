@@ -1,0 +1,19 @@
+p {
+  font: 1em sans-serif;
+}
+
+strong {
+  color: red;
+}
+
+em {
+  color: green;
+}
+
+header {
+  font-family: serif;
+}
+
+a {
+  font-weight: bold;
+}
