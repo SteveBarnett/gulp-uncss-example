@@ -26,6 +26,20 @@ $ gulp
 
 The trimmed CSS file with be put in the `out` directory.
 
+For the files included in this example, your trimmed CSS file should like this:
+
+```css
+p {
+  font: 1em sans-serif;
+}
+
+em {
+  color: green;
+}
+```
+
+The styles for `strong`, `header`, and `a` aren't applied in index.html, so uncss removes them from the `css` file.
+
 ## Updating
 
 To use it on your own projects:
