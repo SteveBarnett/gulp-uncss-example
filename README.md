@@ -26,7 +26,7 @@ $ gulp
 
 The trimmed CSS file with be put in the `out` directory.
 
-For the files included in this example, your trimmed CSS file should like this:
+For the files included in this example, your trimmed CSS file should look like this:
 
 ```css
 p {
@@ -38,7 +38,7 @@ em {
 }
 ```
 
-The styles for `strong`, `header`, and `a` aren't applied in index.html, so uncss removes them from the `css` file.
+The styles for `strong`, `header`, and `a` aren't applied in `index.html`, so uncss removes them from the `main.css` file.
 
 ## Updating
 
